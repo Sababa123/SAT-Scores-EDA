@@ -1,0 +1,3 @@
+NYC Public Schools SAT Performance Analysis
+
+Leveraged a dataset of New York public high schools to uncover spatial and socio‑economic patterns in SAT performance. Conducted comprehensive exploratory data analysis including summary statistics, distribution plots, and boxplots by borough to identify top performers and variability across districts. Assessed the impact of test participation rates through quartile analysis and regression controls. Integrated median household income to contextualize outcomes and performed threshold analyses to gauge competitiveness. Delivered actionable insights and data visualizations.
